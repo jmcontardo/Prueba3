@@ -54,4 +54,22 @@
     <MESSAGE value="cambio1" />
     <option name="LAST_COMMIT_MESSAGE" value="cambio1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="-1333" y="97" key="CommitChangelistDialog2" timestamp="1586823285125">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1333" y="97" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1586823285125" />
+    <state x="-1148" y="399" key="Github.ShareDialog" timestamp="1586822984405">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1148" y="399" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1586822984405" />
+    <state x="-1171" y="224" key="Github.UntrackedFilesDialog" timestamp="1586822997565">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1171" y="224" key="Github.UntrackedFilesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1586822997565" />
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586823090860">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1586823090860" />
+  </component>
 </project>
